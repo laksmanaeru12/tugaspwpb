@@ -1,7 +1,7 @@
 nav{
     height: 100%;
     width: 100%;
-    background: white;
+    background: rgb(11, 134, 216);
     padding: 10px;
     display: flex;
     justify-content: space-around;
@@ -23,10 +23,12 @@ nav{
     align-content: center;
     flex-direction: column;
 }
-.hayuk{
-    display: inline;
-    display: flex;
-    text-decoration-line: inline;
-    }
-    
+.container{
+   display: flex;
+}
+.btn btn-light{
+    color: rgb(11, 134, 216);
+
+}
+   
 
