@@ -1,0 +1,45 @@
+nav{
+    height: 100%;
+    width: 100%;
+    background: rgb(253, 254, 255);
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    font-size: 15px;
+}
+.masuk{
+    background-color:  rgb(87, 136, 213);
+    color: black;
+    font-size: 15px;
+}
+.daftar{
+    background-color: rgb(87, 136, 213);
+    color: black;
+    font-size: 15px;
+}
+.gambar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    display: inline;
+}
+.container{
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+}
+.btn btn-light{
+    color: rgb(11, 134, 216);
+
+}
+.tema{
+    position: relative;
+    margin: auto;
+    width: 90%;
+    border-radius: 100px;
+}
